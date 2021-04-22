@@ -13,8 +13,8 @@ module.exports = {
     navbar: {
       title: 'Yblockchain',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: '',
+        src: 'img/yblocklogo.png',
       },
       items: [
         {
