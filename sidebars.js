@@ -13,16 +13,7 @@ module.exports = {
       type: 'category',
       label: 'Event blogs',
       items: [
-        'blog',
-      ],
-    },
-  ],
-  eventskit: [
-    {
-      type: 'category',
-      label: 'Events Kit',
-      items: [
-        'blog',
+        'gateway-to-blockchain',
       ],
     },
   ],
