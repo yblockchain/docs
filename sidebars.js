@@ -4,9 +4,8 @@ module.exports = {
       type: 'category',
       label: 'Events Kit',
       items: [
-        'getting-started',
-        'create-a-page',
-        'create-a-document',
+        'introduction',
+        'Resources',
         'checklist',
       ],
     },
@@ -18,7 +17,7 @@ module.exports = {
       ],
     },
   ],
-  events_kit: [
+  eventskit: [
     {
       type: 'category',
       label: 'Events Kit',
