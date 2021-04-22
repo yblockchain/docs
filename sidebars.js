@@ -13,4 +13,16 @@ module.exports = {
       ],
     },
   ],
+  events_kit: [
+    {
+      type: 'category',
+      label: 'Yblockchain Events',
+      items: [
+        'Checklist',
+        'Blog',
+        'Introduction',
+        'Resources',
+      ],
+    },
+  ],
 };
