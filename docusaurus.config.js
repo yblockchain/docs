@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Yblockchain',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -23,9 +23,9 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        // {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/yblockchain/docs',
           label: 'GitHub',
           position: 'right',
         },
