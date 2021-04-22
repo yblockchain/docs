@@ -1,7 +1,7 @@
 ---
 id: blog
 title: Yblockchain Blog - Gateway to Blockchain
-slug: /
+slug: /blog
 ---
 ## My Experience hosting a YBlockchain Event
 

@@ -2,26 +2,28 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Docusaurus Tutorial',
+      label: 'Events Kit',
       items: [
         'getting-started',
         'create-a-page',
         'create-a-document',
-        'create-a-blog-post',
-        'markdown-features',
-        'thank-you',
+        'checklist',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Event blogs',
+      items: [
+        'blog',
       ],
     },
   ],
   events_kit: [
     {
       type: 'category',
-      label: 'Yblockchain Events',
+      label: 'Events Kit',
       items: [
-        'Checklist',
-        'Blog',
-        'Introduction',
-        'Resources',
+        'blog',
       ],
     },
   ],

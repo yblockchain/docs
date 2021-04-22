@@ -1,3 +1,8 @@
+---
+id: introduction
+title: Getting Started
+slug: /
+---
 # Welcome to the YBlockchain Events Kit!
 
 The YBlockchain Events Kit is an amalgamation of all the resources you would need to host a YBlockchain Event. At YBlockchain, we believe in the power of decentralisation and in the use of Blockchain Technology to get there. This kit has been carefully designed to help you on your journey to bring more people into the Web3 ecosystem. 
