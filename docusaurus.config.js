@@ -3,8 +3,8 @@ module.exports = {
   title: 'Yblockchain Docs',
   tagline: 'Say Yes to Blockchain',
   url: 'https://yblockcha.in',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  baseUrl: '/docs/',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'yblockchain', // Usually your GitHub org/user name.
@@ -18,7 +18,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'events-kit/introduction',
           activeBasePath: 'docs',
           label: 'Events Kit',
           position: 'left',
@@ -82,6 +82,7 @@ module.exports = {
       '@docusaurus/preset-classic',
       {
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:

@@ -1,5 +1,7 @@
 ---
 title: Event Checklist
+slug: /events-kit/checklist
+id: events-kit-checklist
 ---
 
 # Checklist

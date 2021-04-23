@@ -1,6 +1,7 @@
 ---
 title: Resources
-slug: resources 
+slug: /events-kit/resources
+id: events-kit-resources
 ---
 
 The first thing to do if you're planning to host a YBlockchain Event is answer the 5 W's: What? Who? When? Where? Why?

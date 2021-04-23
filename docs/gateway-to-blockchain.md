@@ -1,5 +1,7 @@
 ---
 title: Blog - Gateway to Blockchain
+slug: /events-kit/gateway-to-blockchain
+id: events-kit-gateway-to-blockchain
 ---
 ## My Experience hosting a YBlockchain Event
 
