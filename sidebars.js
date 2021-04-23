@@ -4,16 +4,16 @@ module.exports = {
       type: 'category',
       label: 'Events Kit',
       items: [
-        'introduction',
-        'Resources',
-        'checklist',
+        'events-kit/introduction',
+        'events-kit/Resources',
+        'events-kit/checklist',
       ],
     },
     {
       type: 'category',
       label: 'Event blogs',
       items: [
-        'gateway-to-blockchain',
+        'events-kit/gateway-to-blockchain',
       ],
     },
   ],
