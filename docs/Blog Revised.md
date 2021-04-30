@@ -3,11 +3,9 @@ title: Blog - Gateway to Blockchain
 slug: /events-kit/gateway-to-blockchain
 id: events-kit-gateway-to-blockchain
 ---
-## My Experience hosting a YBlockchain Event
-
 Planning an event, albeit online, is never an easy task. But having hosted an event myself, I thought it prudent to share my experiences. For brevity and specificity, here I am, sharing a very personalized version of our ‘Event Kit’.  
   
-
+### Questions that need answering
 The first thing one must do when hosting an event is answer a couple of questions. The five W’s: What? Who? When? Where? Why?
 
   
@@ -33,7 +31,9 @@ Having recently hosted a webinar, my answer to these questions were:
 
   
 
-Answering these questions laid the groundwork for planning and executing the event. With the important details chalked out, it was time to implement the plan.  
+Answering these questions laid the groundwork for planning and executing the event. With the important details chalked out, it was time to implement the plan. 
+
+### Implementing the plan 
   
 The first thing that I did was find the guest speaker. Fortunately, we had one of our YBlockchain mentors on board, and fixed a mutually convenient date and time for the event.
 
@@ -45,6 +45,7 @@ I went about publicizing the webinar in 3 main ways. The first was by emailing o
   
 During the webinar, I played the role of a host/moderator and relayed any questions I found on the chat box to the speaker. It was a fun, interesting and light hearted session. The last thing we did was circulate a feedback form at the end of the webinar.
 
+### Conclusions
   
 Now, you’d assume that after we did all this, there’d be a really good turnout. Turns out, not a lot of people want to attend a webinar on a Sunday morning! Although, there may only have been 20-odd people who attended, the feedback we got from those 20 seemed very promising. At the end of the day, it served as a great learning experience for everyone involved in the process.  
   
