@@ -14,5 +14,9 @@ The YBlockchain Events Guide is an amalgamation of all the resources you would n
 If like us, you believe in our mission to spread the word about Blockchain Technology to as many individuals as possible, you're at the right place. The YBlockchain Events Guide has everything you would need to be able to host a YBlockchain event in your community. 
 
 ## Our Mission
-Our mission with the events kit is to serve as an all-encompassing guide to any individual/organisation looking to host a event on blockchain technology. 
+Our mission with the events kit is to serve as an all-encompassing guide to any individual/organisation looking to host a event on blockchain technology.
+ 
 We at YBlockchain, firmly believe in the power of decentralisation and the promising future of Blockchain. This events guide is therefore an attempt to tap the immense potential of this ever-growing technology by enabling passionate change-makers to catalyse the growth of blockchain in their communities.
+
+## Our Vision:
+We at YBlockchain, envision the event guide to be a one-stop destination for anyone willing to host a blockchain event, anywhere on the globe. We aspire to touch the lives of budding blockchain enthusiasts through our event guide and the events organised with its aid.

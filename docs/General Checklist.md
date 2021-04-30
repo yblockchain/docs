@@ -1,5 +1,5 @@
 ---
-title: Event Checklist
+title: Master Checklist
 slug: /events-kit/checklist
 id: events-kit-checklist
 ---
