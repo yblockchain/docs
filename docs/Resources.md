@@ -21,6 +21,6 @@ The first thing to do if you're planning to host a YBlockchain Event is answer t
  - [YBlockchain Brand](https://drive.google.com/drive/u/3/folders/1TEyQV15e3RnORd50kSvFTUqy4rU4Sx_d)
  - [Feedback Link](https://drive.google.com/file/d/1e_OnVFeA7GNBpaiNmbwyr_uw2qcNZLkQ/view?usp=sharing)
  
- ## Let us know
+## Let us know
  
-We have found social media to be a very effective way to market your event. If you find yourself hosting a YBlockchain event, do let us know so that we can spread the word in our network as well!
+We have found social media to be a very effective way to market your event. If you find yourself hosting a YBlockchain event, do let us know so that we can spread the word in our network as well! You can drop me a mail at anagha@yblockcha.in :)
