@@ -4,9 +4,8 @@ slug: /events-kit/checklist
 id: events-kit-checklist
 ---
 
-# Checklist
-
- - [ ] Get a [speaker](https://yblockcha.in/#mentors)
+## Event-production
+-   [ ] Get a [speaker](https://yblockcha.in/#mentors)
 -   [ ] Confirm a date and time
 -   [ ] Know your target audience and how to reach them
 -   [ ] Make a [poster](https://www.canva.com/design/DAET2jdeGT8/-UZ6ew1HpLZyxMdgleWkDg/view?utm_content=DAET2jdeGT8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) and a [blurb](https://docs.google.com/document/d/1Q4lBzJVAgR2qdTpLFdZgnesL3e8ZsCDkgqyFi5zMwBo/edit?usp=sharing) to advertise. (Don't forget to add the [YBlockchain](https://drive.google.com/file/d/1RXT3TOqmZcfcnextgEXAVfUbXkYcgErM/view?usp=sharing) logo!)
