@@ -20,7 +20,7 @@ module.exports = {
         {
           to: 'events-kit/introduction',
           activeBasePath: 'docs',
-          label: 'Events Kit',
+          label: 'Events Guide',
           position: 'left',
         },
         // {to: 'blog', label: 'Blog', position: 'left'},
