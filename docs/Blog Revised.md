@@ -3,6 +3,8 @@ title: Blog - Gateway to Blockchain
 slug: /events-kit/gateway-to-blockchain
 id: events-kit-gateway-to-blockchain
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 Planning an event, albeit online, is never an easy task. But having hosted an event myself, I thought it prudent to share my experiences. For brevity and specificity, here I am, sharing a very personalized version of our ‘Event Kit’.  
   
 ### Questions that need answering
@@ -43,6 +45,10 @@ After that it was all about getting the word out to our target audience. There w
 
 I went about publicizing the webinar in 3 main ways. The first was by emailing our network, the second by posting about it on our discord community and the third was by sharing it on social media platforms. I did this 7 to 10 days before the event. On D-3, I sent out reminders on our discord and re-shared the post on social media. D-1 was when we sent out the meeting link to the people who had registered and we also conducted a dry run of the webinar along with our speaker. An hour before the webinar was scheduled to happen, we sent another reminder to our discord community and shared the meeting link for anyone who wanted to join at the last minute.  
   
+### The D-Day
+
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/Yblock-gateway-to-blockchain.png')} />
+
 During the webinar, I played the role of a host/moderator and relayed any questions I found on the chat box to the speaker. It was a fun, interesting and light hearted session. The last thing we did was circulate a feedback form at the end of the webinar.
 
 ### Conclusions
