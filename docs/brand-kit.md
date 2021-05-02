@@ -39,11 +39,16 @@ Access the logo here: [Download](https://drive.google.com/file/d/1GX0F6bcrJ1vd6i
 Less is more. Much like our minimalistic logo, the YBlockchain header is simply the word ‘Yblockchain’ in our representative colours and font.
 
 <p align="center">
-<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/YblockHeader.png')} width="1128" height="200" display="block" /></p>
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/YBlockchain_header_compressed.png')} width="322" height="64" display="block" /></p>
 
 Access the header here: [Download](https://drive.google.com/file/d/1E5zv9xFdQ9PScSLzqkqbaH4iceQnOAMb/view?usp=sharing)
 
 ## Font
-The font is the last piece that completes the puzzle of branding. The font we use is: **Poppins**
+The font is the last piece that completes the puzzle of branding. The font we use is: **Poppins** 
 
-*-Sai, add pic of font here-*
+(Same as the font used in header and logo)
+
+Weights of the font used: **Light 300, Regular 400**
+
+Access the font here (via Google fonts): [Download](https://fonts.google.com/specimen/Poppins)
+
