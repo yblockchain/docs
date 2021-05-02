@@ -32,7 +32,7 @@ Simplicity is the ultimate sophistication. The YBlockchain logo - a circle with 
 And this logo is the face of our organisation. On the same note, we request you to not make any changes to the logo or edit it in any way.
 
 <p align="center">
-<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/yblocklogo.png')} width="200" height="200" display="block" /></p>
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/yblocklogo.png')} width="150" height="150" display="block" /></p>
 
 Access the logo here: [Download](https://drive.google.com/file/d/1GX0F6bcrJ1vd6ibGGQy4E2VsfaGqqILk/view?usp=sharing) 
 

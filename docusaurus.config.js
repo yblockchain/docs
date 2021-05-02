@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Yblockchain Docs',
+  title: 'YBlockchain Docs',
   tagline: 'Say Yes to Blockchain',
   url: 'https://yblockcha.in',
   baseUrl: '/docs/',
@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'docs', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Yblockchain',
+      title: 'YBlockchain',
       logo: {
         alt: '',
         src: 'img/yblocklogo.png',
@@ -38,17 +38,21 @@ module.exports = {
       ],
     },
     colorMode:{
-      defaultMode: dark,
+      defaultMode: 'dark',
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Yblockchain - Docs',
           items: [
             {
-              label: 'Getting Started',
-              to: 'docs/',
+              label: 'Events Kit',
+              to: 'events-kit/introduction',
+            },
+            {
+              label: 'Brand Kit',
+              to: 'brand-kit/',
             },
           ],
         },
@@ -57,7 +61,7 @@ module.exports = {
           items: [
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://chat.yblockcha.in/',
             },
             {
               label: 'Twitter',
@@ -68,13 +72,17 @@ module.exports = {
         {
           title: 'More',
           items: [
+            // {
+            //   label: 'Blog',
+            //   to: 'blog',
+            // },
             {
-              label: 'Blog',
-              to: 'blog',
+              label: 'Yblockchain Website',
+              href: 'https://yblockcha.in/',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/yblockchain',
             },
           ],
         },
