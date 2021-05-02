@@ -38,7 +38,7 @@ module.exports = {
       ],
     },
     colorMode:{
-      respectPrefersColorScheme: true,
+      defaultMode: dark,
     },
     footer: {
       style: 'dark',
