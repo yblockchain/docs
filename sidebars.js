@@ -2,7 +2,7 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'Events Guide',
+      label: 'Events Kit',
       items: [
         'events-kit-introduction',
         'events-kit-resources',
