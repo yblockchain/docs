@@ -24,5 +24,12 @@ module.exports = {
         'events-kit-gateway-to-blockchain',
       ],
     },
+    {
+      type: 'category',
+      label: 'Brand Kit',
+      items: [
+        'brand-kit',
+      ],
+    },
   ],
 };
