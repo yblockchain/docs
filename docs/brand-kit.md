@@ -15,13 +15,13 @@ These are the colours that make up our world:
 
 **White:**  #FFFFFF
 
-**Blue:** - #0d6efd
+**Blue:** - #0D6EFD
 
-**Light Blue:** #f2f6ff
+**Light Blue:** #F2F6FF
 
-**Green:** #00bd77
+**Green:** #00BD77
 
-**Dark Blue:** #091a2b
+**Dark Blue:** #091A2B
 
 **Black:** #000000
 
@@ -38,7 +38,8 @@ Access the logo here: [Download](https://drive.google.com/file/d/1GX0F6bcrJ1vd6i
 
 Less is more. Much like our minimalistic logo, the YBlockchain header is simply the word ‘Yblockchain’ in our representative colours and font.
 
-*- Sai insert header image-*
+<p align="center">
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/YblockHeader.png')} width="1128" height="200" display="block" /></p>
 
 Access the header here: [Download](https://drive.google.com/file/d/1E5zv9xFdQ9PScSLzqkqbaH4iceQnOAMb/view?usp=sharing)
 
