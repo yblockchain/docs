@@ -3,6 +3,8 @@ title: Yblockchain - Brand Kit
 slug: /brand-kit/
 id: brand-kit
 ---
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 What's ours is yours. At YBlockchain, we truly believe in the idea of decentralization and open sourcing and we practice what we preach. To help you represent YBlockchain better, we've put together everything that makes up our identity on screen. Welcome to the YBlockchain Brand Kit!
 
@@ -29,7 +31,8 @@ Simplicity is the ultimate sophistication. The YBlockchain logo - a circle with 
 
 And this logo is the face of our organisation. On the same note, we request you to not make any changes to the logo or edit it in any way.
 
-*- Sai insert logo image-*
+<p align="center">
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/yblocklogo.png')} width="200" height="200" display="block" /></p>
 
 Access the logo here: [Download](https://drive.google.com/file/d/1GX0F6bcrJ1vd6ibGGQy4E2VsfaGqqILk/view?usp=sharing) 
 
