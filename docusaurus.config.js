@@ -23,6 +23,12 @@ module.exports = {
           label: 'Events Kit',
           position: 'left',
         },
+        {
+          to: 'brand-kit/',
+          activeBasePath: 'docs',
+          label: 'Brand Kit',
+          position: 'left',
+        },
         // {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/yblockchain/docs',

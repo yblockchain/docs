@@ -1,4 +1,8 @@
-# Welcome to the YBlockchain Brand Kit
+---
+title: Yblockchain - Brand Kit
+slug: /brand-kit/
+id: brand-kit
+---
 
 What's ours is yours. At YBlockchain, we truly believe in the idea of decentralization and open sourcing and we practice what we preach. To help you represent YBlockchain better, we've put together everything that makes up our identity on screen. Welcome to the YBlockchain Brand Kit!
 

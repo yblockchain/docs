@@ -16,8 +16,7 @@ module.exports = {
       ],
     },        
       ],
-    },
-      
+    },      
     {
       type: 'category',
       label: 'Event blogs',
