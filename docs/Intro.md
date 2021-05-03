@@ -18,5 +18,5 @@ Our mission with the events kit is to serve as an all-encompassing guide to any 
  
 We at YBlockchain, firmly believe in the power of decentralisation and the promising future of Blockchain. This events guide is therefore an attempt to tap the immense potential of this ever-growing technology by enabling passionate change-makers to catalyse the growth of blockchain in their communities.
 
-## Our Vision:
+## Our Vision
 We at YBlockchain, envision the event guide to be a one-stop destination for anyone willing to host a blockchain event, anywhere on the globe. We aspire to touch the lives of budding blockchain enthusiasts through our event guide and the events organised with its aid.

@@ -8,7 +8,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 What's ours is yours. At YBlockchain, we truly believe in the idea of decentralization and open sourcing and we practice what we preach. To help you represent YBlockchain better, we've put together everything that makes up our identity on screen. Welcome to the YBlockchain Brand Kit!
 
-## Colours
+## Colour Palette
 The world is replete with infinite colours, that can sway thinking, change actions and cause reactions. 
 
 These are the colours that make up our world:
@@ -24,6 +24,9 @@ These are the colours that make up our world:
 **Dark Blue:** #091A2B
 
 **Black:** #000000
+
+<p align="center">
+<img alt="Docusaurus with Keytar" src={useBaseUrl('/img/colorpalette.png')} width="200" height="200" display="block" /></p>
 
 ## Logo and Header
 
